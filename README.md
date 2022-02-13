@@ -40,3 +40,7 @@ You can monitor the service health status with the following endpoint
 curl http://localhost:8080/actuator/health
 ```
 
+## Author
+
+Colin But
+
